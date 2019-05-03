@@ -6,9 +6,8 @@ categories: C++
 
 <script src="https://gist.github.com/seh9306/862211543ca8af6f83d9c8037abebb7b.js"></script>
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
+ 선언 시 대입하면 초기화 작업으로 생성자 호출이, 선언 이후에 대입 하면 대입 연산자(operator=) 호출이 일어난다.
+ 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
